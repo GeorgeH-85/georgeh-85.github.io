@@ -25,4 +25,4 @@ DelayFreq is suitable for all ages and does not collect personal information fro
 Contact
 
 If you have questions about this privacy policy, you can contact the developer at:
-georgehales85@proton.me
+DelayFreq-Support85@proton.me
